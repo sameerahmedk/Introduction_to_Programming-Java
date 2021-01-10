@@ -1,0 +1,18 @@
+
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(åË¢˜øÿÿÿÿ8½÷ñøá.
+C	java:S1315""Add a default case to this switch.(èñïşÿÿÿÿ8½÷ñøá.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(È‹ÀÊûÿÿÿÿ8½÷ñøá.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ò¬†ú8½÷ñøá.
+T	java:S1067"9Replace this use of System.out or System.err by a logger.(õÇğo8½÷ñøá.
+T	java:S106,"9Replace this use of System.out or System.err by a logger.(»®À}8½÷ñøá.
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(ÒîÂ×8½÷ñøá.
+m
+java:S13015"KReplace this "switch" statement by "if" statements to increase readability.(èñïşÿÿÿÿ8½÷ñøá.
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(¨×í¾ùÿÿÿÿ8Œ™Î•Õ.
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(ƒŞ„‚8½÷ñøá.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(­ÚÁ8½÷ñøá.
+N
+java:S2201",The return value of "parseInt" must be used.(ì‹ù‰üÿÿÿÿ8½÷ñøá.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Çµí‘8–Î‚”Õ.
+T	java:S106%"9Replace this use of System.out or System.err by a logger.(»®À}8½÷ñøá.

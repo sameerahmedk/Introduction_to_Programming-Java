@@ -1,0 +1,9 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(İ×‘‡8€Ù§ç.
+C
+java:S1110!"!Remove these useless parentheses.(ŒÎ¯ıÿÿÿÿ8Öİç.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(û®ñ÷8Üü¬ç.
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(†êñóúÿÿÿÿ8ïó“ç.
+C
+java:S1110"!Remove these useless parentheses.(Ö’´øÿÿÿÿ8Öİç.

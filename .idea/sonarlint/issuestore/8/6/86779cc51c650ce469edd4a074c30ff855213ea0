@@ -1,0 +1,6 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(š¶°¬ÿÿÿÿÿ
+[
+java:S4973"9Use the "equals" method if value comparison was intended.(¬®øÍþÿÿÿÿ8¶ëº›Û.
+n
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(ÏæáÁûÿÿÿÿ8ˆþ¢›Û.

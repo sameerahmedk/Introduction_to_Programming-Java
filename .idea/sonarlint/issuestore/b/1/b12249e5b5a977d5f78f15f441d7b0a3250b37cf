@@ -1,0 +1,8 @@
+
+^
+java:S1126)"AReplace this if-then-else statement by a single return statement.(…ÆÎ8—ë¥¬æ.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(çÄ¬Ãüÿÿÿÿ8ì¯Ï«æ.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(çÄ¬Ãüÿÿÿÿ
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(óéê·şÿÿÿÿ8÷…¬æ.
